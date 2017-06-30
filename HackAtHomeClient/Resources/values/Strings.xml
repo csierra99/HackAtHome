@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="EmailText">Correo:</string>
+  <string name="PasswordText">Contraseña:</string>
+  <string name="ValidateButtonText">Validar</string>
+  <string name="EvidenceText">Evidencias</string>
+  <string name="DescriptionEvidenceText">Descripción</string>
+</resources>
